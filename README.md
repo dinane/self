@@ -10,10 +10,15 @@ protected void Warning() {
 }
 ```
 
-## If you stop reading before you scroll, this is the one thing I'd like you to see:
+## The most important thing
 I trust and expect my teams to do good work without me digging into the details, but I can and will dig all the way to bedrock when you or I need to.
 
 ## What you can expect from me
+
+### My working time
+I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone but it is rare that I will respond then. I endeavor to log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me.
+
+When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days - for 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to catch any fires when I'm gone.
 
 ### 1:1s
 I will never cancel a 1:1 that can be rescheduled. I will add additional 1:1s if you ask for them. I am always available for pings of "hey can we chat for a minte?"
@@ -54,6 +59,6 @@ I am what I think of as a Creative Engineer. I went to Worcester Polytechnic Ins
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
 
-I have a young daughter who is obsessed with superheroes (especially Batman), dolls (especially Barbies), and cats (especially her own).
+I have a young daughter who is obsessed with superheroes (especially Batman), dolls (especially Barbies), and cats (especially our own).
 
 I am obsessed with superheroes (especially Daredevil), music (especially Ben Folds), and baking (especially cakes).
