@@ -25,7 +25,10 @@ I will not take notes unless I assign myself something to do. Your 1:1 is *yours
 #### If I am your direct manager
 I will schedule 1:1 meetings with you at least weekly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule additional time for topics coming from me.
 
-#### If I am your manager's manager
+#### If I am your manager's manager and you are a team lead
+I will schedule 1:1 meetings with you at least monthly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule additional time for topics coming from me.
+
+#### If you are an engineer on one of my teams
 I will schedule 1:1 meetings with you at your request - I am open to skip-level 1:1s any time you desire them. This time is for you - I'm happy to talk about anything that interests you, from your own work to your team to your manager to things happening across the company. I also host open office hours from time to time and will post about them in slack.
 
 ### Goals
