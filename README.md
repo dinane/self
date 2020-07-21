@@ -18,12 +18,12 @@ I trust and expect my teams to do good work without me digging into the details,
 ### My working time
 I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone but it is rare that I will respond then. I endeavor to log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me.
 
+During the COVID-19 pandemic, I use Care Time primarily to spend time with my daughter to help her with schoolwork or make sure she has something interesting to do. I may also use Care Time for groceries or to just take a walk. I encourage you to use your Care Time too.
+
 When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days - for 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to catch any fires when I'm gone.
 
 ### 1:1s
-I will never cancel a 1:1 that can be rescheduled. I will add additional 1:1s if you ask for them. I am always available for pings of "hey can we chat for a minte?"
-
-If we are not co-located, I will book a conference room for you. If we are co-located I will prefer face-to-face and will usually move the 1:1 if one of us is working from home on the previously scheduled time.
+I will never cancel a 1:1 that can be rescheduled. I will add additional 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minte?" and will find the time. Please let me schedule the 1:1 so I can reschedule when necessary.
 
 I will not take notes unless I assign myself something to do. Your 1:1 is *yours*. It's up to you to take notes if you want them.
 
