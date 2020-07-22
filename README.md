@@ -25,7 +25,7 @@ When I go on vacation, I unplug. I assign members of my team to cover various as
 I encourage you to own your calendar and your separation of work and home life. Block off commute time (yes even during the pandemic, my calendar now labels that "Family Time"). Take Care Time. Unplug when on vacation.
 
 ### 1:1s
-Your 1:1 is important to me. I will avoid canceling your 1:1 if there is a way to reschedule. I will add extra 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minte?" and will find the time. Please let me schedule the 1:1 so I can reschedule when necessary.
+Your 1:1 is important to me. I will avoid canceling your 1:1 if there is a way to reschedule. I will add extra 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minute?" and will find the time. Please let me schedule the 1:1 so I can reschedule when necessary.
 
 I will not take notes unless I assign myself something to do. Your 1:1 is *yours*. It's up to you to take notes if you want them.
 
