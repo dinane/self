@@ -39,7 +39,7 @@ I will schedule 1:1 meetings with you at least monthly. I will always start by a
 I will schedule 1:1 meetings with you at your request - I am open to skip-level 1:1s any time you desire them. This time is for you - I'm happy to talk about anything that interests you, from your own work to your team to your manager to things happening across the company. I also host open office hours from time to time and will post about them in slack.
 
 ### Goals
-I will happily and regularly discuss personal growth goals with you verbally. For these conversations, I will take notes, but I will not turn them into a formal document for you. It is up to you to own your goals, and document them in ways that help you keep track.
+I will happily and regularly discuss personal growth goals with you verbally. For these conversations I will take notes, but I will not turn them into a formal document for you. It is up to you to own your goals and document them in ways that help you keep track.
 
 ### Reviews
 When we revisit your goals at formal review time, I will come with my notes and some prepared thoughts on how you're doing against the goals as I understood them. I expect you to come with your version of the same. I will also do extensive 360 feedback for you against your level and role, and will bring that information in a digestable format for you.
