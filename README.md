@@ -16,7 +16,7 @@ I trust and expect my teams to do good work without me digging into the details,
 ## What you can expect from me
 
 ### My working time
-I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone but it is rare that I will respond then and I definitely don't expect responses if I do. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Because I don't check slack or email outside of my own decision to be working, you should feel totally safe to send me something at any time and I will read it when I'm back online.
+I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone but it is rare that I will respond then and I definitely don't expect responses if I do. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. Just don't expect a response until I'm back online.
 
 During the COVID-19 pandemic, I use Care Time primarily to spend time with my daughter to help her with schoolwork or make sure she has something interesting to do. I may also use Care Time for groceries or to just take a walk.
 
