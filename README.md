@@ -44,7 +44,7 @@ I will happily and regularly discuss personal growth goals with you verbally. Fo
 ### Reviews
 When we revisit your goals at formal review time I will come with prepared thoughts on how you're doing against the goals as I understood them. I expect you to come with your version of the same. I will also do extensive 360 feedback for you against your level and role. I will compile that feedback for you to digest.
 
-Formal reviews should not be surprising: we should have discussed everything continuously. I strive to make formal review time very boring by having all of our 1:1s be valuable.
+Formal reviews should not be surprising: we should have discussed everything continuously. I strive to make formal review time very boring by having our 1:1s be valuable.
 
 ### Meetings
 Meetings are a tool to force progress in communication. They are not the only way to make progress and they are not the only way to communicate. The owner of a meeting decides through their actions what the outcome of the meeting should be. If there is a decision to be made it should be clearly called out in the agenda or invitation. If the meeting is about information sharing or teaching then it should be recorded for later watching.
