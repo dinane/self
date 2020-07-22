@@ -47,7 +47,7 @@ When we revisit your goals at formal review time I will come with my notes and s
 Formal review time should not be surprising - we should have discussed everything continuously. I strive to make formal reviews very boring by having all of our 1:1s be valuable.
 
 ### Meetings
-Meetings are a tool to force progress in communication. They are not the only way to make progress nor are they the only way to communicate. The owner of a meeting decides through their actions what the outcome of the meeting should be. If there is a decision to be made, it should be clearly called out in the agenda or invitation. If it's more about information sharing or teaching, the meeting probably should be recorded for later watching.
+Meetings are a tool to force progress in communication. They are not the only way to make progress and they are not the only way to communicate. The owner of a meeting decides through their actions what the outcome of the meeting should be. If there is a decision to be made it should be clearly called out in the agenda or invitation. If the meeting is about information sharing or teaching then it should be recorded for later watching.
 
 If I own a meeting, I will send an agenda (it is likely to be inside the meeting invite). I will take notes, and send them out by the end of the day of the meeting.
 
