@@ -64,6 +64,6 @@ I am what I think of as a Creative Engineer. I went to Worcester Polytechnic Ins
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
 
-I have a young daughter who is obsessed with superheroes (especially Batman), dolls (especially Barbies), playing pretend (especially Star Trek) and cats (especially our own).
+I have a young daughter who is obsessed with superheroes (especially Batman), dolls (especially Barbies), playing pretend (especially Star Trek), and cats (especially our own).
 
 I am obsessed with superheroes (especially Daredevil), music (especially Ben Folds), and baking (especially cakes).
