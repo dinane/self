@@ -20,12 +20,12 @@ I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the mo
 
 During the COVID-19 pandemic, I use Care Time primarily to spend time with my daughter to help her with schoolwork or make sure she has something interesting to do. I may also use Care Time for groceries or to just take a walk.
 
-When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days - for 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
+When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days; for 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
 
 I encourage you to own your calendar and your separation of work and home life. Block off commute time (yes even during the pandemic, my calendar now labels that "Family Time"). Take Care Time. Unplug when on vacation.
 
 ### 1:1s
-I will never cancel a 1:1 that can be rescheduled. I will add additional 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minte?" and will find the time. Please let me schedule the 1:1 so I can reschedule when necessary.
+Your 1:1 is important to me. I will avoid canceling your 1:1 if there is a way to reschedule. I will add additional 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minte?" and will find the time. Please let me schedule the 1:1 so I can reschedule when necessary.
 
 I will not take notes unless I assign myself something to do. Your 1:1 is *yours*. It's up to you to take notes if you want them.
 
@@ -36,7 +36,7 @@ I will schedule 1:1 meetings with you at least weekly. I will always start by as
 I will schedule 1:1 meetings with you at least monthly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule additional time for topics coming from me.
 
 #### If you are an engineer on one of my teams
-I will schedule 1:1 meetings with you at your request - I am open to skip-level 1:1s any time you desire them. This time is for you - I'm happy to talk about anything that interests you, from your own work to your team to your manager to things happening across the company. I also host open office hours from time to time and will post about them in slack.
+I will schedule 1:1 meetings with you at your request. I am open to chatting any time you want. This time is for you. I'm happy to talk about anything that interests you, from your own work to your team to your manager to things happening across the company. I also host open office hours from time to time and will post about them in slack.
 
 ### Goals
 I will happily and regularly discuss personal growth goals with you verbally. For these conversations I will take notes, but I will not turn them into a formal document for you. It is up to you to own your goals and document them in ways that help you keep track.
@@ -44,20 +44,20 @@ I will happily and regularly discuss personal growth goals with you verbally. Fo
 ### Reviews
 When we revisit your goals at formal review time I will come with my notes and some prepared thoughts on how you're doing against the goals as I understood them. I expect you to come with your version of the same. I will also do extensive 360 feedback for you against your level and role and will bring that information in a digestable format for you.
 
-Formal review time should not be surprising - we should have discussed everything continuously. I strive to make formal reviews very boring by having all of our 1:1s be valuable.
+Formal reviews should not be surprising: we should have discussed everything continuously. I strive to make formal review time very boring by having all of our 1:1s be valuable.
 
 ### Meetings
 Meetings are a tool to force progress in communication. They are not the only way to make progress and they are not the only way to communicate. The owner of a meeting decides through their actions what the outcome of the meeting should be. If there is a decision to be made it should be clearly called out in the agenda or invitation. If the meeting is about information sharing or teaching then it should be recorded for later watching.
 
-If I own a meeting, I will send an agenda (it is likely to be inside the meeting invite). I will take notes, and send them out by the end of the day of the meeting.
+If I own a meeting I will send an agenda: it is likely to be inside the meeting invite. I will take notes, and send them out by the end of the day of the meeting.
 
-If I am attending a meeting that you own, I will provide my whole attention to your meeting. If I decide that I don't need to be there, I will let you know that I trust you to handle it yourself. I will not multi-task - or I'll try not to. You can call me out on it (see below for things I'm working on).
+If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task; I'll try not to. You can call me out on it (see below for things I'm working on).
 
 ## Things I'm working on
 There are a few things I know I could be better at. This is not an exhaustive list. If I am not living up to your or my expectations, I'd appreciate you calling me out on it privately.
 * I am working on being on time for meetings. I have a bad habit of trying to do a 10 minute task in the 5 minutes I get between meetings. I desire to break that habit so that I can be ready to go at the start of your meeting.
-* I am working on focus. If I think a meeting is handled by someone else in the room I may get distracted and multi-task. You deserve better - if I am not needed I try to excuse myself, so that the meeting can continue without my being a distraction.
-* I am working on understanding introverts. I generally come up ENFJ on Myers-Briggs scales. I am highly aware that engineers are rarely extroverts. I thrive and gain energy from talking to people, and while I know that this is not the case for introverts I sometimes need to be reminded.
+* I am working on focus. If I think a meeting is handled by someone else in the room I may get distracted and multi-task. You deserve better. If I am not needed I try to excuse myself, so that the meeting can continue without my being a distraction.
+* I am working on understanding introverts. While I am an extrovert (ENFJ), I am highly aware that engineers are rarely extroverts.  I thrive and gain energy from talking to people. I know that this is not the case for introverts and I sometimes need to be reminded.
 
 ## My background
 I am what I think of as a Creative Engineer. I went to Worcester Polytechnic Institute and received dual Bachelor's degrees in Computer Science and Music. I wrote a lot of code before I got into management: I have been a firmware engineer, a database architect, a web backend engineer, a web frontend engineer, a desktop engineer, and a mobile engineer. I even spent some time as the closest thing to a visual designer that you can be without a lick of training. But it's been a while since I wrote production code. I trust my team leads and engineers to be the experts.
