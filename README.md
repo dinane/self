@@ -59,7 +59,7 @@ There are a few things I know I could be better at. This is not an exhaustive li
 * I am working on focus. If I think a meeting is handled by someone else in the room I may get distracted and multi-task. You deserve better - if I am not needed I try to excuse myself, so that the meeting can continue without my being a distraction.
 * I am working on understanding introverts. I generally come up ENFJ on Myers-Briggs scales. I am highly aware that engineers are rarely extroverts. I thrive and gain energy from talking to people, and while I know that this is not the case for introverts I sometimes need to be reminded.
 
-## My Background
+## My background
 I am what I think of as a Creative Engineer. I went to Worcester Polytechnic Institute and received dual Bachelor's degrees in Computer Science and Music. I wrote a lot of code before I got into management: I have been a firmware engineer, a database architect, a web backend engineer, a web frontend engineer, a desktop engineer, and a mobile engineer. I even spent some time as the closest thing to a visual designer that you can be without a lick of training. But it's been a while since I wrote production code. I trust my team leads and engineers to be the experts.
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
