@@ -2,7 +2,7 @@
 Nice to meet you!
 
 ## What is this, and why should you read it?
-Getting to know someone can be hard, and it's even harder when there's a power dynamic mismatch. This document is intended to help kickstart our communication by showing you who I am and how I think.
+Getting to know someone can be hard, and it's even harder when there's a power dynamic mismatch. The purpose of this document is to help kickstart our communication by showing you who I am and how I think.
 
 ```c#
 protected void Warning() {
@@ -16,11 +16,11 @@ I trust and expect my teams to do good work without me digging into the details,
 ## What you can expect from me
 
 ### My working time
-I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone but it is rare that I will respond then and I definitely don't expect responses if I do. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. Just don't expect a response until I'm back online.
+I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone. If I respond that early I definitely don't expect you to reply. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
 
-During the COVID-19 pandemic, I use Care Time primarily to spend time with my daughter to help her with schoolwork or make sure she has something interesting to do. I may also use Care Time for groceries or to just take a walk.
+During the COVID-19 pandemic, I use Care Time primarily to spend time with my daughter. I help her with schoolwork or make sure she has something interesting to do. I may also use Care Time for groceries or to take a walk.
 
-When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days; for 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
+When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days. For 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
 
 I encourage you to own your calendar and your separation of work and home life. Block off commute time (yes even during the pandemic, my calendar now labels that "Family Time"). Take Care Time. Unplug when on vacation.
 
@@ -30,19 +30,19 @@ Your 1:1 is important to me. I will avoid canceling your 1:1 if there is a way t
 I will not take notes unless I assign myself something to do. Your 1:1 is *yours*. It's up to you to take notes if you want them.
 
 #### If I am your direct manager
-I will schedule 1:1 meetings with you at least weekly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule additional time for topics coming from me. We can work together to decide whether one longer weekly session or two shorter ones works better.
+I will schedule 1:1 meetings with you at least weekly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule additional time for topics coming from me. We can work together to decide on timing that works for you.
 
 #### If I am your manager's manager and you are a team lead
 I will schedule 1:1 meetings with you at least monthly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule additional time for topics coming from me.
 
 #### If you are an engineer on one of my teams
-I will schedule 1:1 meetings with you at your request. I am open to chatting any time you want. This time is for you. I'm happy to talk about anything that interests you, from your own work to your team to your manager to things happening across the company. I also host open office hours from time to time and will post about them in slack.
+I will schedule 1:1 meetings with you at your request. I am open to chatting any time you want. This time is for you. I'm happy to talk about anything that interests you: your own work, your team, your manager, or things happening across the company. I also host open office hours from time to time and will post about them in slack.
 
 ### Goals
 I will happily and regularly discuss personal growth goals with you verbally. For these conversations I will take notes, but I will not turn them into a formal document for you. It is up to you to own your goals and document them in ways that help you keep track.
 
 ### Reviews
-When we revisit your goals at formal review time I will come with my notes and some prepared thoughts on how you're doing against the goals as I understood them. I expect you to come with your version of the same. I will also do extensive 360 feedback for you against your level and role and will bring that information in a digestable format for you.
+When we revisit your goals at formal review time I will come with prepared thoughts on how you're doing against the goals as I understood them. I expect you to come with your version of the same. I will also do extensive 360 feedback for you against your level and role. I will compile that feedback for you to digest.
 
 Formal reviews should not be surprising: we should have discussed everything continuously. I strive to make formal review time very boring by having all of our 1:1s be valuable.
 
@@ -56,11 +56,11 @@ If I am attending a meeting that you own I will provide my whole attention to yo
 ## Things I'm working on
 There are a few things I know I could be better at. This is not an exhaustive list. If I am not living up to your or my expectations, I'd appreciate you calling me out on it privately.
 * I am working on being on time for meetings. I have a bad habit of trying to do a 10 minute task in the 5 minutes I get between meetings. I desire to break that habit so that I can be ready to go at the start of your meeting.
-* I am working on focus. If I think a meeting is handled by someone else in the room I may get distracted and multi-task. You deserve better. If I am not needed I try to excuse myself, so that the meeting can continue without my being a distraction.
-* I am working on understanding introverts. While I am an extrovert (ENFJ), I am highly aware that engineers are rarely extroverts.  I thrive and gain energy from talking to people. I know that this is not the case for introverts and I sometimes need to be reminded.
+* I am working on focus. If I think someone else in the room is handling the meeting I may get distracted and multi-task. You deserve better. If I am not needed I try to excuse myself, so that the meeting can continue without my being a distraction.
+* I am working on understanding introverts. While I am an extrovert (ENFJ), I am highly aware that engineers are rarely extroverts.  I thrive and gain energy from talking to people. I know that this is not the case for introverts and I sometimes need a reminder.
 
 ## My background
-I am what I think of as a Creative Engineer. I went to Worcester Polytechnic Institute and received dual Bachelor's degrees in Computer Science and Music. I wrote a lot of code before I got into management: I have been a firmware engineer, a database architect, a web backend engineer, a web frontend engineer, a desktop engineer, and a mobile engineer. I even spent some time as the closest thing to a visual designer that you can be without a lick of training. But it's been a while since I wrote production code. I trust my team leads and engineers to be the experts.
+I think of myself as a Creative Engineer. I went to Worcester Polytechnic Institute and received dual Bachelor's degrees in Computer Science and Music. I wrote a lot of code before I got into management: I have been a firmware engineer, a database architect, a web backend engineer, a web frontend engineer, a desktop engineer, and a mobile engineer. I even spent some time as the closest thing to a visual designer that you can be without a lick of training. But it's been a while since I wrote production code. I trust my team leads and engineers to be the experts.
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
 
