@@ -11,7 +11,7 @@ protected void Warning() {
 ```
 
 ## What I expect from you
-I trust and expect my teams to do good work without me digging into the details, but I can and will dig when you or I need to. I expect you to be the experts.
+I trust and expect my teams to do good work without me digging into the details, but I can and will dig when you or I need to. I expect you to be the expert.
 
 ## What you can expect from me
 
