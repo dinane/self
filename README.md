@@ -51,7 +51,7 @@ Meetings are a tool to force progress in communication. They are not the only wa
 
 If I own a meeting I will send an agenda: it is likely to be inside the meeting invite. I will take notes, and send them out by the end of the day of the meeting.
 
-If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task; I'll try not to. You can call me out on it (see below for things I'm working on).
+If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task. Or, I'll try not to. You can call me out on that (see below for things I'm working on).
 
 ## Things I'm working on
 There are a few things I know I could be better at. This is not an exhaustive list. If I am not living up to your or my expectations, I'd appreciate you calling me out on it privately.
