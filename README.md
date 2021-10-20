@@ -51,17 +51,20 @@ Meetings are a tool to force progress in communication. They are not the only wa
 
 If I own a meeting I will send an agenda: it is likely to be inside the meeting invite. I will take notes, and send them out by the end of the day of the meeting.
 
-If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task. Or, I'll try not to. You can call me out on that (see below for things I'm working on).
+If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task. Or, I'll try not to. You can call me out on that (see below).
 
-## Things I'm working on
-There are a few things I know I could be better at. This is not an exhaustive list. If I am not living up to your or my expectations, I'd appreciate you calling me out on it privately.
-* I am working on being on time for meetings. I have a bad habit of trying to do a 10 minute task in the 5 minutes I get between meetings. I desire to break that habit so that I can be ready to go at the start of your meeting.
-* I am working on focus. If I think someone else in the room is handling the meeting I may get distracted and multi-task. You deserve better. If I am not needed I try to excuse myself, so that the meeting can continue without my being a distraction.
-* I am working on understanding introverts. While I am an extrovert (ENFJ), I am highly aware that engineers are rarely extroverts.  I thrive and gain energy from talking to people. I know that this is not the case for introverts and I sometimes need a reminder.
+## I'm Always Looking to Improve
+There are a few things I know I could be better at. If I am not living up to your or my expectations, I'd appreciate you calling me out on it privately.
+
+I struggle with being on time for meetings. I may need to leave one meeting early in order to be early for another - because if I'm not early, I'm likely late. I prefer to manage my own calendar so that I can schedule in breaks and prep time. If you'd like time with me please reach out and ask; I will make the time.
+
+If I think someone else in the room is handling a meeting I may get distracted and multi-task. If I detect that I am not needed, I will excuse myself so that the meeting can continue without me.
+
+I am working on understanding introverts. While I am an extrovert (ENFJ), I am highly aware that engineers are rarely extroverts.  I thrive and gain energy from talking to people. I know that this is not the case for introverts and I sometimes need a reminder.
 
 ## My background
 I think of myself as a Creative Engineer. I went to Worcester Polytechnic Institute and received dual Bachelor's degrees in Computer Science and Music. I wrote a lot of code before I got into management: I have been a firmware engineer, a database architect, a web backend engineer, a web frontend engineer, a desktop engineer, and a mobile engineer. I even spent some time as the closest thing to a visual designer that you can be without a lick of training. But it's been a while since I wrote production code. I trust my team leads and engineers to be the experts.
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
 
-I am married and I have a young daughter. She is obsessed with superheroes (especially Batman), dolls (especially Barbies), playing pretend (especially Star Trek), and cats (especially our own). I am obsessed with superheroes (especially Daredevil), music (especially Ben Folds), baking (especially cakes), and cats (especially our own).
+I am married and I have a young daughter. She is obsessed with superheroes (especially Teen Titans), dolls (especially Barbies), playing pretend (especially Star Trek), and cats (especially our own). I am obsessed with superheroes (especially MCU), music (especially Ben Folds), baking (especially bread), and cats (especially our own).
