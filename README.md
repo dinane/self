@@ -51,7 +51,7 @@ Meetings are a tool to force progress in communication. They are not the only wa
 
 If I own a meeting I will send an agenda: it is likely to be inside the meeting invite. I will take notes, and send them out by the end of the day of the meeting.
 
-If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task - I aim to be fully present or not attending at all.
+If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task.
 
 ## My Calendar
 I use my calendar not just for meetings and 1:1s, but also for tasks and reminders. Because of this, it will always look full. Don't let that deter you. If you would like to chat, reach out via slack. I can and will make the time.
