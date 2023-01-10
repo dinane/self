@@ -16,13 +16,13 @@ I trust and expect my teams to do good work without me digging into the details,
 ## What you can expect from me
 
 ### My working time
-I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone. If I respond that early I definitely don't expect you to reply. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
+Most days I work from home. I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone. If I respond that early I definitely don't expect you to reply. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
 
-During the COVID-19 pandemic, I use Care Time primarily to spend time with my daughter. I help her with schoolwork or make sure she has something interesting to do. I may also use Care Time for groceries or to take a walk.
+On rare occasion, I may go into the Boston office. If I am working from the office, I will prioritize in-person meetings and may reschedule others. I do this very infrequently, and often as a last minute decision. On days that I go into the office, the commute may push my start time to 10:00 Eastern.
 
 When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days. For 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
 
-I encourage you to own your calendar and your separation of work and home life. Block off commute time (yes even during the pandemic, my calendar now labels that "Family Time"). Take Care Time. Unplug when on vacation.
+I encourage you to own your calendar and your separation of work and home life. Block off commute time (yes even if you work from home, my calendar labels that "Family Time"). Mark off personal appointments. Unplug when on vacation.
 
 ### 1:1s
 Your 1:1 is important to me. I will avoid canceling your 1:1 if there is a way to reschedule. I will add extra 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minute?" and will find the time. Please let me schedule the 1:1 so I can reschedule when necessary.
@@ -51,7 +51,7 @@ Meetings are a tool to force progress in communication. They are not the only wa
 
 If I own a meeting I will send an agenda: it is likely to be inside the meeting invite. I will take notes, and send them out by the end of the day of the meeting.
 
-If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself. I will not multi-task.
+If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself.
 
 ## My Calendar
 I use my calendar not just for meetings and 1:1s, but also for tasks and reminders. Because of this, it will always look full. Don't let that deter you. If you would like to chat, reach out via slack. I can and will make the time.
@@ -66,4 +66,4 @@ I think of myself as a Creative Engineer. I went to Worcester Polytechnic Instit
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
 
-I am married and I have a young daughter. She is obsessed with superheroes (especially Teen Titans), dolls (especially Barbies), playing pretend (especially Star Trek), and cats (especially our own). I am obsessed with superheroes (especially MCU), music (especially Ben Folds), baking (especially bread), and cats (especially our own).
+I am married and I have a daughter. She is obsessed with drawing (especially people), dolls (especially Barbies), playing pretend (especially fashion), and cats (especially our own). I am obsessed with superheroes (especially MCU), music (especially Ben Folds), baking (especially bread), and cats (especially our own).
