@@ -18,7 +18,7 @@ I trust and expect my teams to do good work without me digging into the details,
 ### My working time
 Most days I work from home. I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone. If I respond that early I definitely don't expect you to reply. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
 
-On rare occasion, I may go into the Boston office. If I am working from the office, I will prioritize in-person meetings and may reschedule others. I do this very infrequently, and often as a last minute decision. On days that I go into the office, the commute may push my start time to 10:00 Eastern.
+On rare occasion, I may go into the Boston office. If I am working from the office, I will prioritize in-person meetings. I do this very infrequently, and often as a last minute decision. On days that I go into the office, the commute may push my start time to 10:00 Eastern.
 
 When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days. For 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
 
@@ -54,7 +54,7 @@ If I own a meeting I will send an agenda: it is likely to be inside the meeting 
 If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself.
 
 ## My Calendar
-I use my calendar not just for meetings and 1:1s, but also for tasks and reminders. Because of this, it will always look full. Don't let that deter you. If you would like to chat, reach out via slack. I can and will make the time.
+I use my calendar not only for meetings and 1:1s, but also for tasks and reminders. Because of this, it will always look full. Don't let that deter you. If you would like to chat, reach out via slack. I can and will make the time.
 
 If you are looking to book a larger meeting, you can feel free to book over "Prep" without asking. I'm also happy to help find a time that works. I am adept at calendar tetris.
 
