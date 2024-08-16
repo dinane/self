@@ -33,3 +33,8 @@ Embodiments described herein involve generating and modifying a sub-index of a m
 US 9,374,607 · Issued Jun 21, 2016
 
 Systems and methods are provided to offer a restricted playback mode playlist mode to allow one or more participating users to access a host's media playback system and interact with a reduced subset of functions in that system.
+
+### Notes
+Links to the US Patent Office don't work at time of writing. One can search by patent number at https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html.
+
+Google patents also provides: https://patents.google.com/?inventor=Diane+Roberts
