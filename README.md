@@ -18,7 +18,7 @@ I trust and expect my teams to do good work without me digging into the details,
 ### My working time
 Most days I work from home. I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone. If I respond that early I definitely don't expect you to reply. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
 
-On rare occasion, I may go into the Boston office. If I am working from the office, I will prioritize in-person meetings. I do this very infrequently, and often as a last minute decision. On days that I go into the office, the commute may push my start time to 10:00 Eastern.
+If I am working from the office, I will prioritize in-person meetings. I do this very infrequently, and often as a last minute decision. On days that I go into the office, the commute may push my start time to 10:00 Eastern.
 
 When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days. For 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
 
@@ -66,4 +66,4 @@ I think of myself as a Creative Engineer. I went to Worcester Polytechnic Instit
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
 
-I am married and I have a daughter. She is obsessed with drawing (especially people), dolls (especially Barbies), playing pretend (especially fashion), and cats (especially our own). I am obsessed with superheroes (especially MCU), music (especially Ben Folds), baking (especially bread), and cats (especially our own).
+I am married and I have a daughter. She is obsessed with drawing (especially fashion), dolls (especially Barbies), playing games (especially Clue), and cats (especially our own). I am obsessed with superheroes (especially MCU), music (especially Ben Folds), playing games (especially Tzolk'in), and cats (especially our own). Our cats are obsessed with sunbeams.
