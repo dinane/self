@@ -16,16 +16,16 @@ I trust and expect my teams to do good work without me digging into the details,
 ## What you can expect from me
 
 ### My working time
-Most days I work from home. I tend to work from 9:30-5:30 Eastern. I check slack and email earlier in the morning on my phone. If I respond that early I definitely don't expect you to reply. I log out at 5:30 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
+I generally work from 9:00-5:00 Eastern. I check slack and email earlier in the morning on my phone. If I respond outside of your normal working hours, I don't expect you to reply. I log out at 5:00 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
 
-If I am working from the office, I will prioritize in-person meetings. I do this very infrequently, and often as a last minute decision. On days that I go into the office, the commute may push my start time to 10:00 Eastern.
+If I am working from the office, I will prioritize in-person meetings. Due to the unpredictable Boston commute, I avoid scheduling meetings before 10:00 AM Eastern on in-office days. 
 
 When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days. For 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
 
 I encourage you to own your calendar and your separation of work and home life. Block off commute time (yes even if you work from home, my calendar labels that "Family Time"). Mark off personal appointments. Unplug when on vacation.
 
 ### 1:1s
-Your 1:1 is important to me. I will avoid canceling your 1:1 if there is a way to reschedule. I will add extra 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minute?" and will find the time. Please let me schedule the 1:1 so I can reschedule when necessary.
+Your 1:1 is important to me. I will avoid canceling your 1:1 if there is a way to reschedule. I will add extra 1:1s if you ask for them. I will always respond to pings of "hey can we chat for a minute?" and will find the time.
 
 I will not take notes unless I assign myself something to do. Your 1:1 is *yours*. It's up to you to take notes if you want them.
 
@@ -56,7 +56,7 @@ If I am attending a meeting that you own I will provide my whole attention to yo
 ## My Calendar
 I use my calendar not only for meetings and 1:1s, but also for tasks and reminders. Because of this, it will always look full. Don't let that deter you. If you would like to chat, reach out via slack. I can and will make the time.
 
-If you are looking to book a larger meeting, you can feel free to book over "Prep" without asking. I'm also happy to help find a time that works. I am adept at calendar tetris.
+If you are looking to book a larger meeting, you can feel free to book over my scheduled Tasks without asking. I'm also happy to help find a time that works. I am adept at calendar tetris.
 
 ## I'm Always Looking to Improve
 There are a few things I know I could be better at. If I am not living up to your or my expectations, I'd appreciate you calling me out on it privately.
@@ -66,4 +66,4 @@ I think of myself as a Creative Engineer. I went to Worcester Polytechnic Instit
 
 I love to sing. Sometimes I sing at my desk. I try not to do that too much.
 
-I am married and I have a daughter. She is obsessed with drawing (especially fashion), dolls (especially Barbies), playing games (especially Clue), and cats (especially our own). I am obsessed with superheroes (especially MCU), music (especially Ben Folds), playing games (especially Tzolk'in), and cats (especially our own). Our cats are obsessed with sunbeams.
+I am married and I have a daughter. She is obsessed with drawing (especially cute animals), sports (especially soccer), playing games (especially Clue), and cats (especially our own). I am obsessed with superheroes (especially MCU), music (especially Ben Folds), playing games (especially Tzolk'in), and cats (especially our own). Our cats are obsessed with sunbeams.
