@@ -16,9 +16,9 @@ I trust and expect my teams to do good work without me digging into the details,
 ## What you can expect from me
 
 ### My working time
-I generally work from 9:00-5:00 Eastern. I check slack and email earlier in the morning on my phone. If I respond outside of your normal working hours, I don't expect you to reply. I log out at 5:00 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
+I generally work from 9:00-5:00 Eastern, and skew a little earlier on work-from-home days. I check slack and email earlier in the morning on my phone. If I respond outside of your normal working hours, I don't expect you to reply. I log out at 5:00 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
 
-If I am working from the office, I will prioritize in-person meetings. Due to the unpredictable Boston commute, I avoid scheduling meetings before 10:00 AM Eastern on in-office days. 
+If I am working from the office, I will prioritize in-person meetings. Due to the unpredictable Boston commute, I avoid scheduling meetings before 9:30 AM Eastern on in-office days. 
 
 When I go on vacation, I unplug. I assign members of my team to cover various aspects of my role if the vacation is more than 2 days. For 2 or fewer days I assume everything can wait. If something catches fire you can text me, but please try not to light any fires when I'm gone.
 
@@ -35,7 +35,7 @@ I will schedule 1:1 meetings with you at least weekly. I will always start by as
 #### If I am your manager's manager and you are a team lead
 I will schedule 1:1 meetings with you at least monthly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule extra time for topics coming from me.
 
-#### If you are an engineer on one of my teams
+#### If you are an engineer on one of my teams but I am not your direct manager
 I will schedule 1:1 meetings with you at your request. I am open to chatting any time you want. This time is for you. I'm happy to talk about anything that interests you: your own work, your team, your manager, or things happening across the company. I also host open office hours from time to time and will post about them in slack.
 
 ### Goals
