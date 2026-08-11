@@ -16,7 +16,7 @@ I trust and expect my teams to do good work without me digging into the details,
 ## What you can expect from me
 
 ### My working time
-I generally work from 9:00-5:00 Eastern, and skew a little earlier on work-from-home days. I check slack and email earlier in the morning on my phone. If I respond outside of your normal working hours, I don't expect you to reply. I log out at 5:00 every day to be with my family and will not check slack or email after that time. For emergencies you can text me. Feel free to send me a slack or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
+I generally work from 9:00-5:00 Eastern, and skew a little earlier on work-from-home days. I check slack earlier in the morning on my phone - but my phone does not currently have email or teams access. If I respond outside of your normal working hours, I don't expect you to reply. I log out at 5:00 every day to be with my family and will not check slack, teams, or email after that time. For emergencies you can text me. Feel free to send me a slack, teams message, or email at any time: off-hours I will not get notified. But don't expect a response until I'm back online.
 
 If I am working from the office, I will prioritize in-person meetings. Due to the unpredictable Boston commute, I avoid scheduling meetings before 9:30 AM Eastern on in-office days. 
 
@@ -36,7 +36,7 @@ I will schedule 1:1 meetings with you at least weekly. I will always start by as
 I will schedule 1:1 meetings with you at least monthly. I will always start by asking how you're doing. I expect that you will bring at least one topic for us to discuss to your 1:1. If your topic or topics take up the entire time, I may schedule extra time for topics coming from me.
 
 #### If you are an engineer on one of my teams but I am not your direct manager
-I will schedule 1:1 meetings with you at your request. I am open to chatting any time you want. This time is for you. I'm happy to talk about anything that interests you: your own work, your team, your manager, or things happening across the company. I also host open office hours from time to time and will post about them in slack.
+I will schedule 1:1 meetings with you at your request. I am open to chatting any time you want. This time is for you. I'm happy to talk about anything that interests you: your own work, your team, your manager, or things happening across the company. I also host open office hours from time to time and will post about them in slack or teams.
 
 ### Goals
 I will happily and regularly discuss personal growth goals with you verbally. For these conversations I will take notes, but I will not turn them into a formal document for you. It is up to you to own your goals and document them in ways that help you keep track.
@@ -54,7 +54,7 @@ If I own a meeting I will send an agenda: it is likely to be inside the meeting 
 If I am attending a meeting that you own I will provide my whole attention to your meeting. If I decide that I don't need to be there I will let you know that I trust you to handle it yourself.
 
 ## My Calendar
-I use my calendar not only for meetings and 1:1s, but also for tasks and reminders. Because of this, it will always look full. Don't let that deter you. If you would like to chat, reach out via slack. I can and will make the time.
+I use my calendar not only for meetings and 1:1s, but also for tasks and reminders. Because of this, it will always look full. Don't let that deter you. If you would like to chat, reach out via slack or teams. I can and will make the time.
 
 If you are looking to book a larger meeting, you can feel free to book over my scheduled Tasks without asking. I'm also happy to help find a time that works. I am adept at calendar tetris.
 
